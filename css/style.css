@@ -3,7 +3,19 @@
     background-color: #4EA0FF;
     background-size: 100px;
 }
-
 .logo{
     width: 175px;
+}
+.sez{
+    color: #20A9E5;
+}
+.txt{
+    background-color: yellow;
+}
+.testa{
+    background-color: #4EA0FF;
+    color: #B1E5F2;
+}
+.corpo{
+    background-color: #20A9E5;
 }
