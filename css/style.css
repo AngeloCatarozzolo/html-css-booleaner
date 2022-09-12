@@ -14,8 +14,20 @@
 }
 .testa{
     background-color: #4EA0FF;
-    color: #B1E5F2;
+    color: white;
 }
 .corpo{
     background-color: #20A9E5;
 }
+.monitor{
+    color: white;
+    background-image: url('../img/monitor.jpg');
+    width: 300px;
+    height: 200px;
+  }
+  .graph{
+    color: white;
+    background-image: url('../img/graph.jpg');
+    width: 300px;
+    height: 200px;
+  }
